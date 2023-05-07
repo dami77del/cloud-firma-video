@@ -14,7 +14,6 @@ const handleClick = () =>  setNav(!nav)
           <li>About</li>
           <li>Support</li>
           <li>Platforms</li>
-          <li>Pricing</li>
           </ul>
         </div>
         <div className='hidden md:flex pr-4'>
